@@ -1,0 +1,15 @@
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\bin\Debug\Monopoly_Banker.exe.config
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\bin\Debug\Monopoly_Banker.exe
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\bin\Debug\Monopoly_Banker.pdb
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\obj\Debug\Monopoly_Banker.csprojAssemblyReference.cache
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\obj\Debug\Monopoly_Banker.Game.resources
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\obj\Debug\Monopoly_Banker.Properties.Resources.resources
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\obj\Debug\Monopoly_Banker.Startup.resources
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\obj\Debug\Monopoly_Banker.csproj.GenerateResource.cache
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\obj\Debug\Monopoly_Banker.csproj.CoreCompileInputs.cache
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\obj\Debug\Monopoly_Banker.exe
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\obj\Debug\Monopoly_Banker.pdb
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\obj\Debug\Monopoly_Banker.Auction.resources
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\obj\Debug\Monopoly_Banker.Disaster.resources
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\obj\Debug\Monopoly_Banker.Finish.resources
+C:\Users\corru\Documents\GitHub\Monopoly_Banker\Monopoly_Banker\obj\Debug\Monopoly_Banker.Trust_Modifiers.resources
