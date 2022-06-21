@@ -177,5 +177,28 @@ namespace Monopoly_Banker
         {
             options[3] = option_randombad.Checked;
         }
+
+        private void pbxLoadFile_Click(object sender, EventArgs e)
+        {
+            using (OpenFileDialog fd = new OpenFileDialog())
+            {
+                fd.Filter = "Monopoly Banker files (*.mnb)|*.mnb";
+                
+                if (fd.ShowDialog() == DialogResult.OK && fd.FileName != null)
+                {
+                    lblFileName.Text = fd.FileName;
+                    LoadFile(fd.FileName);
+                }
+                else
+                {
+                    lblFileName.Text = "Load File...";
+                }
+            }
+        }
+
+        private void LoadFile(string file)
+        {
+
+        }
     }
 }

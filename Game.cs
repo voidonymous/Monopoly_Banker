@@ -1284,5 +1284,14 @@ namespace Monopoly_Banker
                 timer_findicon.Stop();
             }
         }
+
+        private void btnPauseGame_Click(object sender, EventArgs e)
+        {
+            DialogResult dialogResult = MessageBox.Show("Are you sure you want to pause the game?\nThis will save the current state and close the game.", "Pause Game?", MessageBoxButtons.YesNo);
+            if (dialogResult == DialogResult.Yes)
+            {
+                // save game to file
+            }
+        }
     }
 }

@@ -130,9 +130,6 @@
   <data name="hotel" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\hotel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="money" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\assets\money.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="railway2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\railway2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -151,8 +148,8 @@
   <data name="chance2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\chance2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="railway" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\assets\railway.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="money" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\assets\money.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="small_mortgage" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\small_mortgage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -187,8 +184,14 @@
   <data name="icon_hat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\icon_hat.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="close" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\assets\close.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="icon_thimbell" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\icon_thimbell.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="water_works" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\assets\water_works.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="board" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\board.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -199,8 +202,8 @@
   <data name="community_chest3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\community_chest3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="water_works" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\assets\water_works.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="railway" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\assets\railway.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="railway4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\railway4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -208,7 +211,7 @@
   <data name="house" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\house.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="close" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\assets\close.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="open-folder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\assets\open-folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
